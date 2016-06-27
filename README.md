@@ -1,6 +1,6 @@
 # QT_HTTPRequest
-QT HTTP get/post request implementation using c++11 lambdas as callback function
-    
+Shared library containing a simple get/post request implementation using c++11 lambdas as callback function.
+
     //create a network access manager instance
     QNetworkAccessManager *m_manager = new QNetworkAccessManager(this);
     
